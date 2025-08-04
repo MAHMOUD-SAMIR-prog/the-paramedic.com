@@ -1,0 +1,33 @@
+.big{
+    background-color: whitesmoke;
+}
+
+.wel{
+color: brown;
+margin: 5px;
+}
+.wel2{
+    background-color: brown;
+    border: 20% solid brown;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px;
+    height: auto;
+    width: 100px;
+    
+    
+
+}
+.q{
+    margin: 15px;
+    
+}
+.w{
+    margin: 15px;
+}
+.e{
+    margin: 15px;
+}
+.r{
+    margin: 15px;
+}
